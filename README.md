@@ -48,7 +48,7 @@ bash
 git clone https://github.com/<your-username>/InventoryManagement.git
 cd InventoryManagement
 
- 2️⃣ Run Script
+2️⃣ Run Script
 python main.py
 
 
@@ -77,9 +77,4 @@ Product Quantity : 20
 ----------------------------
 Bill Amount      : 100
 ----------------------------
-
-
-
-
-## 📂 File Structure
 
