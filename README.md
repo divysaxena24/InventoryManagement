@@ -40,21 +40,21 @@ This program helps store owners or hostel managers keep track of **products, sal
 
 ---
 
-## ▶️ Usage
+### ▶️ Usage
 
-### 1️⃣ Clone Repo
+1️⃣ Clone Repo
 ```bash
 git clone https://github.com/<your-username>/InventoryManagement.git
 cd InventoryManagement
 
 ### 2️⃣ Run Script
-```python main.py
+python main.py
 
 
 ### 3️⃣ Enter Details
 
-``` Name, Mobile Number, Email
-``` Product ID and Quantity
+ Name, Mobile Number, Email
+ Product ID and Quantity
 
 
 
